@@ -6,3 +6,4 @@ src/*.js.map
 *.map.js
 index.js
 index.js.map
+/.idea
